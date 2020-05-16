@@ -1,0 +1,56 @@
+*{
+    font-family: Century Gothic;
+}
+
+.navbar {
+    background-color: pink;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.hiragana_chart{
+    background-color: #CEF6EC;
+    
+}
+
+.katakana_chart{
+    background-color: #F3F781;
+    
+}
+
+.kanji_cards{
+    background-color: #E182E8; 
+   
+}
+
+.youtube_sources{
+    background-color: whitesmoke;
+    padding-top:40px;
+    padding-bottom: 50px;
+}
+
+.text-youtube{
+    color: salmon;
+}
+
+.nhk_website{
+    background-color: #ACFDA9;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.text-nhk{
+    color: #006439;
+}
+
+#app-title{
+    padding-bottom: 20px;
+}
+
+footer{
+    text-align: right;
+    padding-top: 20px;
+}
